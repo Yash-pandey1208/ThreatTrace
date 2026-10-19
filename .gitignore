@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local secrets
+.env
+
+# Raw datasets
+data/raw/
+
+# Processed and merged datasets
+data/processed/*.csv
