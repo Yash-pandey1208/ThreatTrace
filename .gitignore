@@ -13,3 +13,6 @@ __pycache__/
 
 # Raw datasets
 data/raw/
+
+# Processed and merged datasets
+data/processed/*.csv
